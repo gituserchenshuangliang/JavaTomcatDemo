@@ -8,7 +8,7 @@
 	<version>1.0</version>
 
 	<properties>
-		<tomcat.version>9.0.19</tomcat.version>
+		<tomcat.version>9.0.41</tomcat.version>
 	</properties>
 
 	<dependencies>
